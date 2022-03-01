@@ -1,0 +1,638 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular and exact list of such officers, as well of cheif as lower quality of his Highness, the Prince of Oranges army, as were killed, wounded, and taken prisoner, in the late fight, which was on the ¹/₁₁ August, 1674 between his said Highness and the Prince of Conde. As likewise, a list of the killed and wounded in the French army, as it was published at the Hague by Arnout Lecours.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04915</idno>
+            <idno type="STC">Wing P590</idno>
+            <idno type="STC">ESTC R181483</idno>
+            <idno type="EEBO-CITATION">52529172</idno>
+            <idno type="OCLC">ocm 52529172</idno>
+            <idno type="VID">178852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178852)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular and exact list of such officers, as well of cheif as lower quality of his Highness, the Prince of Oranges army, as were killed, wounded, and taken prisoner, in the late fight, which was on the ¹/₁₁ August, 1674 between his said Highness and the Prince of Conde. As likewise, a list of the killed and wounded in the French army, as it was published at the Hague by Arnout Lecours.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Andrew Anderson, printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printed in four columns.</note>
+                  <note>Imperfect: stained and creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seneffe, Battle of, Seneffe, Belgium, 1674 --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Casualties --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Campaigns --  Belgium --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="lists_of_officers">
+            <pb facs="tcp:178852:1" rendition="simple:additions"/>
+            <head>A Particular and Exact LIST Of ſuch Officers, as well of Chief as Lower Quality of His Highneſs, the Prince of <hi>Oranges</hi> Army, as were Kille<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounded, and taken Priſoners, in the late Fight, which was on the 1/11 <hi>Auguſt,</hi> 1674. between His ſaid Highneſs and the Prince of <hi>Conde.</hi>
+            </head>
+            <head type="sub">As likewiſe, a Liſt of the Killed and Wounded in the <hi>FRENCH</hi> Army, as it was Publiſhed at the <hi>Hague</hi> by <hi>Arnout Leers.</hi>
+            </head>
+            <list>
+               <item>
+                  <list>
+                     <head>
+                        <hi>INFANTRY</hi> Of His Highneſs's Regiment of Guards.</head>
+                     <item>THe Count of <hi>Solms</hi> priſoner.</item>
+                     <item>Lieut. Col. <hi>Croneman,</hi> and his Lieutenant, priſoners.</item>
+                     <item>
+                        <hi>Belleſons</hi> Lieut. Colonel, who commanded the two Battaillions of the Guards, wounded.</item>
+                     <item>Major <hi>Dedingh,</hi> killed.</item>
+                     <item>Baron <hi>de Heyde,</hi> killed.</item>
+                     <item>Count <hi>Douglas,</hi> priſoner.</item>
+                     <item>Captain <hi>Dolmen,</hi> killed.</item>
+                     <item>Capt. <hi>Roſe</hi> and his Enſign, wounded.</item>
+                     <item>Captain <hi>Eſſen,</hi> priſoner.</item>
+                     <item>Capt. <hi>Boham,</hi> wounded.</item>
+                     <item>Capt. <hi>Schimmel-Penninck,</hi> wounded.</item>
+                     <item>Lieut, <hi>Lijnroot,</hi> killed.</item>
+                     <item>Lieut. <hi>Weſterhout,</hi> killed.</item>
+                     <item>Lieut. <hi>Soubihard,</hi> killed.</item>
+                     <item>Enſign <hi>Thourſpar<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s,</hi> priſoner.</item>
+                     <item>Enſign <hi>Duyvenvoorde</hi> priſoner.</item>
+                     <item>Enſign <hi>Jacot,</hi> wounded.</item>
+                     <item>Cap. <hi>Schrevel,</hi> wounded.</item>
+                     <item>
+                        <hi>Sachet</hi> Lieutenant, killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Prince <hi>Maurits.</hi>
+                     </head>
+                     <item>Lieutenant Colonel <hi>Magwits,</hi> killed.</item>
+                     <item>Capt. <hi>Linde,</hi> wounded; his Lieutenant killed.</item>
+                     <item>Capt. <hi>Fagel,</hi> priſoner.</item>
+                     <item>Capt. <hi>Moor,</hi> wounded.</item>
+                     <item>Lieut. <hi>Polman,</hi> wounded.</item>
+                     <item>Enſign <hi>Polman,</hi> priſoner.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of the Count of <hi>
+                           <gap reason="illegible" extent="2+ letters">
+                              <desc>••…</desc>
+                           </gap>ierum.</hi>
+                     </head>
+                     <item>Lieut, Colonel <hi>Slangenbergh,</hi> wounded.</item>
+                     <item>Capt. <hi>Heeckeren,</hi> wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Palm.</hi>
+                     </head>
+                     <item>Colonel <hi>Palm,</hi> killed.</item>
+                     <item>Major <hi>Padburgh,</hi> killed.</item>
+                     <item>Capt. <hi>Villeers,</hi> killed.</item>
+                     <item>Capt. <hi>Iſſelmuyden,</hi> killed.</item>
+                     <item>Capt. <hi>Aerſſen,</hi> killed.</item>
+                     <item>Capt. <hi>Palm,</hi> priſoner.</item>
+                     <item>Lieut. <hi>Van Cnoppert Dirck Smels,</hi> killed.</item>
+                     <item>Lieut. <hi>Ruyter,</hi> killed.</item>
+                     <item>Enſign <hi>Heytvogel,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Wee.</hi>
+                     </head>
+                     <item>Colonel <hi>Wee,</hi> wounded.</item>
+                     <item>Lieut Col. <hi>Falckenburgh,</hi> priſoner.</item>
+                     <item>Major <hi>Ruytenborch</hi> wounded and pri<g ref="char:EOLhyphen"/>ſoner.</item>
+                     <item>Capt. <hi>Frieſſom,</hi> wounded.</item>
+                     <item>Capt. <hi>Rammelmam,</hi> priſoner:</item>
+                     <item>Capt. <hi>Glarges,</hi> priſoner.</item>
+                     <item>Capt. <hi>N<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>velt</hi> killed, or priſoner.</item>
+                     <item>Capt. <hi>Haringcarſpel</hi> and his Enſign kil<g ref="char:EOLhyphen"/>led.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Stockhyem</hi>
+                     </head>
+                     <item>Colonel <hi>Stockheym,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieut. Col. <hi>Brandt,</hi> killed.</item>
+                     <item>Major <hi>l<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Riviere</hi> killed or priſoner.</item>
+                     <item>Capt. <hi>Krents,</hi> miſſing.</item>
+                     <item>Capt. <hi>Volckeringh,</hi> miſſing.</item>
+                     <item>Capt. <hi>Kleyntie,</hi> miſſing.</item>
+                     <item>Baron <hi>Plettenborgh,</hi> killed.</item>
+                     <item>Capt. <hi>Stockheym,</hi> miſſing.</item>
+                     <item>Capt. <hi>Molck,</hi> wounded.</item>
+                     <item>Capt. <hi>Caſenbroodt,</hi> wounded.</item>
+                     <item>Capt, <hi>Morgenſtar,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Villaumaire.</hi>
+                     </head>
+                     <item>Colonel <hi>Villaumire,</hi> killed.</item>
+                     <item>Major <hi>Porteclaire,</hi> wounded.</item>
+                     <item>Capt. <hi>la Sale,</hi> killed.</item>
+                     <item>Capt. <hi>la Racque,</hi> wounded.</item>
+                     <item>Capt. <hi>Talifer,</hi> wounded.</item>
+                     <item>Capt. <hi>Turk,</hi> wounded and priſoner.</item>
+                     <item>Lieutenant <hi>la Riviere,</hi> wounded.</item>
+                     <item>Lieutenant <hi>Raffaw,</hi> wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Coſſiopijn.</head>
+                     <item>Col. <hi>Caſſiopijn,</hi> wounded and priſoner.</item>
+                     <item>Lieutenant Collonel <hi>Parcheval,</hi> priſoner.</item>
+                     <item>Major <hi>Vileers,</hi> killed.</item>
+                     <item>Capt. <hi>Wagenaer,</hi> wounded and priſoner.</item>
+                     <item>Capt. <hi>Brower,</hi> miſſing.</item>
+                     <item>Capt. <hi>Pichler,</hi> miſſing.</item>
+                     <item>
+                        <hi>In the Regiment of Collonel</hi> Turk.</item>
+                     <item>Col. <hi>Turk,</hi> killed.</item>
+                     <item>Major <hi>Hagendoorn,</hi> killed.</item>
+                     <item>Capt. <hi>Paſcaſius Turk,</hi> miſſing:</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of the Prince of <hi>Berkenfelt.</hi>
+                     </head>
+                     <item>The Prince of <hi>Berkinfelt,</hi> wounded.</item>
+                     <item>Lieut. Collonel <hi>Zaſtrow,</hi> wounded.</item>
+                     <item>Major <hi>Seegwijck,</hi> killed.</item>
+                     <item>Capt. <hi>Honſdorf</hi> and his Lieut. <hi>Groothu<g ref="char:EOLhyphen"/>ſen,</hi> killed.</item>
+                     <item>Capt. <hi>Eppingen,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Collonel <hi>Polens.</hi>
+                     </head>
+                     <item>Coll. <hi>Polens,</hi> killed.</item>
+                     <item>Lieut Col. <hi>Brumſe,</hi> wounded.</item>
+                     <item>Major <hi>Wilmſdorf;,</hi> killed.</item>
+                     <item>Capt. <hi>Swansbel</hi> and his Enſign, killed.</item>
+                     <item>Capt. <hi>Greb<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n,</hi> wounded; and his En<g ref="char:EOLhyphen"/>ſigne <hi>Litwes</hi> killed.</item>
+                     <item>Capt. Lieut. <hi>Croes,</hi> killed.</item>
+                     <item>Leiut. <hi>Dieſel</hi> killed.</item>
+                     <item>Lieut. <hi>Bilsky.</hi> wounded.</item>
+                     <item>Enſign <hi>Polens,</hi> wounded.</item>
+                     <item>Lieut, <hi>Hillendorf,</hi> wounded.</item>
+                     <item>Enſign <hi>Troxes,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Fariaux.</hi>
+                     </head>
+                     <item>Major <hi>Lalleman,</hi> wounded.</item>
+                     <item>Capt. <hi>Haften,</hi> miſſing, and his Lieut. wounded.</item>
+                     <item>Capt. <hi>Meytere</hi> wounded, and his Lieut. miſſing.</item>
+                     <item>Capt. <hi>R<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſel</hi> miſſing, his Lieut killed, and his Enſign miſſing.</item>
+                     <item>Capt. <hi>Kijniack</hi> killed, his Lieut. and his Enſign miſſing.</item>
+                     <item>Capt. <hi>Visbach</hi> wounded, and his Lieut. priſoner.</item>
+                     <item>Capt. <hi>Saly,</hi> miſſing.</item>
+                     <item>Capt. <hi>de la Fonteine,</hi> wounded, and his Lieut. killed.</item>
+                     <item>Capt. Lieut. of the Collonels Company killed, and his Enſign priſoner.</item>
+                     <item>Lieut. <hi>Van Capit Colepeper,</hi> priſoner.</item>
+                     <item>Lieut. and Enſign of Capt. <hi>Diebenbouk</hi> miſſing.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Leendorf.</hi>
+                     </head>
+                     <item>Col. <hi>Liendorf,</hi> wounded.</item>
+                     <item>Capt. <hi>la Cave,</hi> priſoner.</item>
+                     <item>Capt. <hi>Router,</hi> priſoner.</item>
+                     <item>The Enſign <hi>Jeſſe</hi> and 2 others wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Ulf-ſpar.</hi>
+                     </head>
+                     <item>Lieut. Col. <hi>Guldenſtern,</hi> wounded.</item>
+                     <item>Capt. <hi>Broeckbuyſen,</hi> wounded.</item>
+                     <item>Capt. <hi>Marienberg,</hi> wounded.</item>
+                     <item>Capt. Lieut. <hi>Wyler,</hi> wounded.</item>
+                     <item>Lieut. <hi>Holmſtrum,</hi> killed.</item>
+                     <item>Lieut. <hi>Krentz,</hi> wounded.</item>
+                     <item>Lieut. <hi>Clarcq,</hi> wounded.</item>
+                     <item>Lieut. <hi>Riger,</hi> wounded.</item>
+                     <item>Enſign <hi>Griepenwalt,</hi> wounded.</item>
+                     <item>Enſign <hi>Volkers,</hi> wounded.</item>
+                     <item>Enſign <hi>Sinclaer,</hi> wounded.</item>
+                     <item>Enſign <hi>Moor,</hi> wounded.</item>
+                     <item>Enſign <hi>Broeckhuyſen,</hi> killed.</item>
+                     <item>Six Sergeants killed, and four wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Veerſen.</hi>
+                     </head>
+                     <item>Col. <hi>Veerſen,</hi> priſoner.</item>
+                     <item>Baron <hi>de Weſterhout,</hi> wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Cockinga.</hi>
+                     </head>
+                     <item>Lieutenant Collonel <hi>Hunninga,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Hertog van Hol<g ref="char:EOLhyphen"/>ſtein</hi>
+                     </head>
+                     <item>Capt. <hi>Landtman,</hi> mortally wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the R<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>giment of the Marqueſs. <hi>Thouars.</hi>
+                     </head>
+                     <item>The Ma<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>quſs <hi>de Thouars,</hi> wounded;</item>
+                     <item>Lieutenant Collonel <hi>Boreel,</hi> priſoner.</item>
+                     <item>Capt. <hi>l' Eſpee,</hi> wounded.</item>
+                     <item>Capt. <hi>la Primèe,</hi> killed.</item>
+                     <item>Capt. <hi>Brouwer,</hi> miſſing.</item>
+                     <item>Capt. <hi>Ryswijk.</hi> priſoner.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of the Count of <hi>Erbach.</hi>
+                     </head>
+                     <item>The Count of <hi>Erbach,</hi> wounded.</item>
+                     <item>Major <hi>Sauderſen,</hi> wounded.</item>
+                     <item>Lieutenant ... killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Eybergen.</hi>
+                     </head>
+                     <item>Collonel <hi>Eybergen,</hi> wounded.</item>
+                     <item>Major <hi>Wiebe,</hi> wounded.</item>
+                     <item>Capt. <hi>Dorvelt,</hi> wounded.</item>
+                     <item>Capt. <hi>Roſemeyer,</hi> wounded.</item>
+                     <item>Lieutenant <hi>Caren,</hi> killed.</item>
+                     <item>Lieutenant <hi>Cock,</hi> wounded.</item>
+                     <item>Enſign <hi>Van Deylen,</hi> wounded.</item>
+                     <item>Enſign <hi>Coler,</hi> wounded.</item>
+                     <item>Enſign <hi>Doen,</hi> wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of the <hi>Heer Rhinegrave.</hi>
+                     </head>
+                     <item>The <hi>Heer Rhinegrave,</hi> wounded.</item>
+                     <item>Lieut Colonel <hi>Ter Bruggen,</hi> wounded.</item>
+                     <item>Major <hi>Iddinckinge,</hi> wounded.</item>
+                     <item>Capt. <hi>Pauw</hi> wounded and priſoner.</item>
+                     <item>Capt. <hi>Merode,</hi> wounded.</item>
+                     <item>Capt Lieutenant <hi>Peitſen,</hi> wounded.</item>
+                     <item>Lieutenant <hi>Schoonleben,</hi> killed.</item>
+                     <item>Lieutenant <hi>Quaſt,</hi> wounded and priſoner.</item>
+                     <item>Lieutenant <hi>Penhuyſen,</hi> killed.</item>
+                     <item>Enſign <hi>Noordingh,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiments of <hi>Sedlenisky.</hi>
+                     </head>
+                     <item>Lieutenant Collonel <hi>Lichtenberg,</hi> wound.</item>
+                     <item>Major <hi>Cabbeljan</hi> and his Lieutenant and Enſign, wounded.</item>
+                     <item>Capt. <hi>Vaſſy,</hi> wounded.</item>
+                     <item>Capt. <hi>Steenhuyſen,</hi> wounded.</item>
+                     <item>Capt. <hi>Brodonick</hi> wounded.</item>
+                     <item>Capt. <hi>Mepes,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. Lieutenant <hi>Tempel,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>utenant <hi>Coermen,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>utenant <hi>Wanroot,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>utenant <hi>Ceurs,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſign <hi>Broodewijck,</hi> killed,</item>
+                     <item>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>e <hi>Ajutant</hi> wounded.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of <hi>Swartſenburgh.</hi>
+                     </head>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>llonel <hi>Swartſenburgh,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pt. <hi>Aylua,</hi> wounded and priſoner.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>unt <hi>Waldeek</hi> Veltmaerſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hal, wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>neral Major <hi>Vane,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eutenant General <hi>Aylua,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>e <hi>Heer van Ginckel,</hi> Brigadier, wound<g ref="char:EOLhyphen"/>ed.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oung Prince <hi>Maurits</hi> of <hi>Naſſaw,</hi> priſ.</item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eer van Ouwerkerek,</hi> wounded,</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ollonel <hi>Wel,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apt. <hi>Hubert,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apt. <hi>Padburgh,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apt. <hi>de Noy</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pt. <hi>Ploos,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pt. <hi>Bredenback,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apt. <hi>du Cerceau,</hi> wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apt. <hi>Wijcken,</hi> killed.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Cornet <hi>Schrieck</hi> killed.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>CAVALRY.</head>
+               <item>
+                  <list>
+                     <head>In the Regiment of the <hi>Baron</hi> Langerac<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </head>
+                     <item>BAron <hi>Van Langerack</hi> killed.</item>
+                     <item>Capt. <hi>Schaep,</hi> wounded.</item>
+                     <item>Capt. <hi>Meersbergen,</hi> wounded.</item>
+                     <item>Capt. <hi>Severyn</hi> wounded, his Lieutenant</item>
+                     <item>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> killed, and Cornet wounded.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieut. <hi>Heſſel</hi> wounded and priſoner.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ieut. <hi>Wielick,</hi> killed.</item>
+                     <item>Cornet <hi>Nieuwenheym,</hi> killed.</item>
+                     <item>Lieutenant of Capt <hi>Piipe,</hi> killed; the Cornet priſoner.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Hornberg.</hi>
+                     </head>
+                     <item>Capt. <hi>Loohuyſen,</hi> wounded.</item>
+                     <item>Capt Lieut. <hi>W. ſtphalen,</hi> killed.</item>
+                     <item>The Lieutenant of Major <hi>Ghelen,</hi> killed.</item>
+                     <item>Cornet <hi>Ter Bruggen</hi> killed.</item>
+                     <item>Cornet <hi>Vander Nat,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Croonenburgh.</hi>
+                     </head>
+                     <item>Capt <hi>Papenkop,</hi> killed.</item>
+                     <item>Cornet <hi>Stolſen-burgh,</hi> killed.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>In the Regiment of Colonel <hi>Eppen.</hi>
+                     </head>
+                     <item>Colonel <hi>Eppen,</hi> wounded.</item>
+                     <item>Major <hi>Bringſe,</hi> priſoner.</item>
+                     <item>Capt. <hi>Ho<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n,</hi> killed.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Of the Imperial and Spaniſh Officers.</head>
+               <item>PRince <hi>Pio,</hi> wounded.</item>
+               <item>Prince <hi>Charles</hi> of <hi>Lorrain,</hi> wounded.</item>
+               <item>Marqueſs <hi>d' Aſſentar,</hi> Maiſtre de Chap, killed.</item>
+               <item>Prince of <hi>Vaudemont,</hi> wounded.</item>
+               <item>Count <hi>de Merode</hi> wounded, and priſoner.</item>
+               <item>Prince of <hi>Holſtein</hi> wounded, and priſoner.</item>
+               <item>Prince of <hi>Salms,</hi> priſoner</item>
+               <item>The Major of the Prince of <hi>Vandemont,</hi> killed.</item>
+            </list>
+            <list>
+               <head>A Liſt of the French killed and vvounded.</head>
+               <item>DUke of <hi>Ermontiers,</hi> killed.</item>
+               <item>Duke of <hi>Joinville,</hi> Son of the Duke of <hi>Guiſe,</hi> killed.</item>
+               <item>Marquis <hi>Chevrueſe,</hi> killed.</item>
+               <item>Marquis <hi>van Ge<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lis,</hi> killed.</item>
+               <item>9 Collonels killed</item>
+               <item>28 Lieut. Colonels and Majors, killed.</item>
+               <item>163 Captains killed.</item>
+               <item>Monſieur <hi>Stoupa,</hi> who commanded the Suiſſers, killed.</item>
+               <item>Duke <hi>d' Enguin</hi> wounded.</item>
+               <item>Count <hi>d' Montal</hi> his thigh broke.</item>
+               <item>Mounſieur <hi>de Fourilles,</hi> wounded.</item>
+               <item>Marquis <hi>de Rochefort,</hi> wounded.</item>
+               <item>Marquis <hi>de Fuillade,</hi> wounded.</item>
+               <item>43 Officers of the K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs Regiment kil<g ref="char:EOLhyphen"/>led</item>
+               <item>60 Officers of the Guards killed.</item>
+               <item>80 Officers of the Queens Guard kil<g ref="char:EOLhyphen"/>led.</item>
+               <item>700 Switlers of the Guard, killed.</item>
+               <item>The Regiment of Switſers of <hi>Molaudins</hi> wholly ruined.</item>
+               <item>14 Captains, and 8 Lieutenants of the ſame, killed.</item>
+               <item>The white Sandart, and two green-Standarts of the Kings Houſhold taken.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-Printed by <hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent MAJESTY. <hi>Anno Dom,</hi> 1674.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
